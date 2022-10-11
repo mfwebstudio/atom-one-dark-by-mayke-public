@@ -1,6 +1,6 @@
 ## Atom One Dark by Mayke EULA
 
-“Developer” means the author of Atom One Dark by Mayke plugin: MF WebStudio.
+“Developer” means the author of Atom One Dark by Mayke plugin: M K DE FREITAS.
 
 “JetBrains” means JetBrains s.r.o. with its registered office at Rua Maria Ferreira Medeiros, 553, Nova Friburgo, RJ, Brazil, registered with the Commercial Register kept by the Municipal Court of Nova Friburgo, RJ, Brazil, under the number 24.419.603/0001-90.
 
